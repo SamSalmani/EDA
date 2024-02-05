@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analytics Fundamentals
+Fundamentals of Exploratory Data Analytics 
